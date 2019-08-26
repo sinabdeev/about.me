@@ -1,4 +1,4 @@
-Vitaliy Sinabdeev
+## Vitaliy Sinabdeev
 
 
 EXPERIENCE IN THE FULL LIFECYCLE OF THE SOFTWARE DEVELOPMENT
@@ -7,7 +7,10 @@ EXPERIENCE IN THE FULL LIFECYCLE OF THE SOFTWARE DEVELOPMENT
 RUSSIA 
 
 
-v.sinabdeev@mail.ru 
+ 
+
+![](mail.png)
+
 
 
 Java, Ruby, SQL, C#
