@@ -19,3 +19,5 @@ FROM RUSSIA
 Java, Ruby, SQL, C#
 
 
+
+Spring, Hibernate, REST, SOAP, WildFly, PostgreSQL, JUnit, Maven, Gradle, Liquibase, Git 
