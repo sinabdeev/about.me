@@ -4,8 +4,11 @@
 EXPERIENCE IN THE FULL LIFECYCLE OF THE SOFTWARE DEVELOPMENT
 
 
-RUSSIA 
+FROM RUSSIA 
 
+
+
+10 YEARS IN **[IT](https://en.wikipedia.org/wiki/Information_technology)**
 
  
 
