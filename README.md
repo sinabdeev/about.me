@@ -20,7 +20,7 @@ Java, Ruby, SQL, C#
 
 
 
-Spring, Hibernate, REST, SOAP, 
+Spring Boot, Hibernate, REST, SOAP, 
 
 WildFly, Apache Tomcat, 
 
