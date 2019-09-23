@@ -20,4 +20,17 @@ Java, Ruby, SQL, C#
 
 
 
-Spring, Hibernate, REST, SOAP, WildFly, PostgreSQL, JUnit, Maven, Gradle, Liquibase, Git 
+Spring, Hibernate, REST, SOAP, 
+
+WildFly, Apache Tomcat, 
+
+RabbitMQ, ActiveMQ, OpenMQ,  
+
+JUnit,
+
+PostgreSQL, Microsoft SQL Server, Liquibase,
+
+Maven, Gradle, 
+
+Git 
+
