@@ -34,3 +34,15 @@ Maven, Gradle,
 
 Git 
 
+##### FAVORITES AUTHORS:
+
+Martin Fowler
+
+Vernon Vaughn
+
+Robert Cecil Martin ("Uncle Bob")
+
+Eric Evans 
+
+Jimmy Nilsson
+
