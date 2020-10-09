@@ -15,23 +15,30 @@ FROM RUSSIA
 
 
 
-Java, Ruby, SQL, C#
+Java, SQL
 
 
 
-Spring Boot, Hibernate, REST, SOAP, 
+Spring Boot, Hibernate, REST,  
 
 WildFly, Apache Tomcat, 
 
-RabbitMQ, ActiveMQ, OpenMQ,  
+Kafka, RabbitMQ, ActiveMQ, OpenMQ,  
 
 JUnit,
 
-PostgreSQL, Microsoft SQL Server, Liquibase,
+PostgreSQL, Microsoft SQL Server, Oracle,
+
+Liquibase,
 
 Maven, Gradle, 
 
-Git 
+Git, Rancher, Jenkins, Docker 
+
+JasperReports
+
+WebSocket   
+
 
 ##### FAVORITES AUTHORS:
 
