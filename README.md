@@ -21,19 +21,17 @@ Java, SQL
 
 Spring Boot, Hibernate, REST,  
 
-WildFly, Apache Tomcat, 
+WildFly, Tomcat, 
 
-Kafka, RabbitMQ, ActiveMQ, OpenMQ,  
+Kafka, RabbitMQ, ActiveMQ,   
 
-JUnit,
+JUnit, Mockito,
 
-PostgreSQL, Microsoft SQL Server, Oracle,
-
-Liquibase,
+PostgreSQL, Microsoft SQL Server, Oracle, Liquibase, Redis,
 
 Maven, Gradle, 
 
-Git, Rancher, Jenkins, Docker 
+Git, [Rancher](https://www.google.com/search?q=Rancher+Enterprise+Kubernetes+Management), Jenkins, Docker, 
 
 JasperReports
 
